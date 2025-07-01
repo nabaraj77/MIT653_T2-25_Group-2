@@ -9,3 +9,4 @@
 
 **Topic Selected** - **Topic 3:** _Impact of Artificial Intelligence on Cybersecurity: Investigate how Artificial Intelligence and Machine learning are used to enhance cybersecurity measures, detect threats, and mitigate cyber attacks._
 
+**Research Question**: How can AI and machine learning improve the detection and mitigation of cyber attacks, such as phishing and ransomware, within hospital information systems?
