@@ -2,8 +2,12 @@
 **Format for week 3**
 **1. Common Themes Across the Paper**
 
+
 **2. Key Findings and Methodologies**
-For eg: **For Paper 1.** **ii). For paper 2** **iii). For paper 3**
+For eg: 
+  **For Paper 1.** 
+  **ii). For paper 2** 
+  **iii). For paper 3**
 
 **3. Research Gaps and Unresolved Issues**
 For eg: **For Paper 1.** **ii). For paper 2** **iii). For paper 3**
