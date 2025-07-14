@@ -55,9 +55,11 @@ Key unresolved challenges include:
 **5.	Conclusion**
 Although block chain, AI, and zero-trust architectures can provide strong protection against the healthcare cyber threats, the implementation of these strategies needs coordination with the standards related to regulatory frameworks, such as HIPAA, and vulnerabilities that may manifest in human beings. Lightweight IoMT security, threat hunting powered by AI, and uniform frameworks of cross-institutional data sharing are on the agenda in the future. Multi-layered adaptive security ecosystem should be used to protect the digital future of healthcare.
 
+---
 
 
 Literature Review: **The Role of Implementing Machine Learning Approaches in Enhancing the Effectiveness of Healthcare Services** By:**Abhishek Maharjan**
+
 **1.	Introduction to Machine Learning in Healthcare**
 •	What it is and why it's important: Machine Learning (ML) is a new technology that helps us understand massive data better, especially in the health field.
 •	Uses: ML helps people make better decisions in many areas, such as:
