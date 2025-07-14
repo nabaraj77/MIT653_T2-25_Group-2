@@ -4,6 +4,7 @@ Literature Review: **Emerging Technologies and Cybersecurity Challenges in Healt
 **1.	The Evolving Threat Landscape in Healthcare**
 The sensitivity of patient information and vital medical facilities exposes the healthcare organizations to extreme cyber threats.
 The most serious are:
+
 •	**Ransomware:** Ransomware tends to dominate the healthcare cyberattack and cripples services (e.g., delayed surgeries), causing a threat to patient safety.
 
 •	**Phishing & Social Engineering:** Phishing is still among the leading vectors of attack, and spear phishing, and clone phishing use trusted channels to acquire credentials.
@@ -55,6 +56,7 @@ Key unresolved challenges include:
 **5.	Conclusion**
 Although block chain, AI, and zero-trust architectures can provide strong protection against the healthcare cyber threats, the implementation of these strategies needs coordination with the standards related to regulatory frameworks, such as HIPAA, and vulnerabilities that may manifest in human beings. Lightweight IoMT security, threat hunting powered by AI, and uniform frameworks of cross-institutional data sharing are on the agenda in the future. Multi-layered adaptive security ecosystem should be used to protect the digital future of healthcare.
 
+---
 ---
 
 
