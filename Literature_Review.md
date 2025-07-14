@@ -57,6 +57,43 @@ Although block chain, AI, and zero-trust architectures can provide strong protec
 
 
 
+Literature Review: **The Role of Implementing Machine Learning Approaches in Enhancing the Effectiveness of Healthcare Services** By:**Abhishek Maharjan**
+**1.	Introduction to Machine Learning in Healthcare**
+•	What it is and why it's important: Machine Learning (ML) is a new technology that helps us understand massive data better, especially in the health field.
+•	Uses: ML helps people make better decisions in many areas, such as:
+•	Disease assessment and treatment predictions
+•	Pharmaceutical product development
+•	Biomarker recognition
+•	Patient monitoring and management
+Current Trends: The Internet of Things (IoT) and machine learning (ML) are changing healthcare by making it possible to provide customized care and use predictive analytics.
+
+**2.	How Machine Learning Affects Healthcare Services**
+•	Use of Data: The amount of data in healthcare is growing quickly, thus it needs to be analyses quickly to improve patient outcomes.
+•	Health prediction systems say that ML algorithms can handle unexpected changes in patient flows, including those that happen during disasters or calamities.
+•	Results of the survey:   The study included 78 medical professionals and found:
+•	64% of people said that IoT and ML are often used in healthcare.
+•	75% agree that ML algorithms can help find cancerous tumors early.
+
+
+
+
+
+3.	Putting Machine Learning into Action Is Hard
+•	Quality and Understandability of Data: The data must be of high quality and the methods must be simple to grasp for machine learning to operate.
+•	Trust Issues: Healthcare practitioners often have trouble trusting machine learning models since they are hard to understand.
+•	Integration with Current Systems: Machine learning solutions are still hard to connect to the healthcare systems that are already in place.
+
+4.	How Machine Learning Can Help Healthcare
+•	Personalized Healthcare: Machine learning makes care better by letting doctors create treatment plans that are specific to each patient.
+•	Predictive analytics: Machine learning (ML) makes it feasible to act before a medical emergency happens by anticipating what patients will need and what might happen.
+
+5.	 Conclusion and What to Look Forward to in the Future
+The Potential of Machine Learning: Using ML in healthcare could make services and patient outcomes far better. To guarantee that machine learning is used responsibly and successfully resolves problems, cooperation between data scientists, regulators, and healthcare professionals is crucial.
+Future study: More study is needed to properly understand how machine learning could be used in healthcare. This study should be focused on making users more trusting, algorithms more open, and data better.
+
+
+
+
 
 **Format for week 4**
 **Introduction**
