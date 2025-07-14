@@ -70,11 +70,11 @@ Literature Review: **The Role of Implementing Machine Learning Approaches in Enh
 Current Trends: The Internet of Things (IoT) and machine learning (ML) are changing healthcare by making it possible to provide customized care and use predictive analytics.
 
 **2.	How Machine Learning Affects Healthcare Services**
-•	Use of Data: The amount of data in healthcare is growing quickly, thus it needs to be analyses quickly to improve patient outcomes.
-•	Health prediction systems say that ML algorithms can handle unexpected changes in patient flows, including those that happen during disasters or calamities.
-•	Results of the survey:   The study included 78 medical professionals and found:
-•	64% of people said that IoT and ML are often used in healthcare.
-•	75% agree that ML algorithms can help find cancerous tumors early.
+          • Use of Data: The amount of data in healthcare is growing quickly, thus it needs to be analyses quickly to improve patient outcomes.
+          • Health prediction systems say that ML algorithms can handle unexpected changes in patient flows, including those that happen during disasters or calamities.
+          • Results of the survey:   The study included 78 medical professionals and found:
+          • 64% of people said that IoT and ML are often used in healthcare.
+          • 75% agree that ML algorithms can help find cancerous tumors early.
 
 
 **3.	Putting Machine Learning into Action Is Hard**
