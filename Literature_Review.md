@@ -77,26 +77,23 @@ Current Trends: The Internet of Things (IoT) and machine learning (ML) are chang
 •	75% agree that ML algorithms can help find cancerous tumors early.
 
 
-
-
-
-3.	Putting Machine Learning into Action Is Hard
+**3.	Putting Machine Learning into Action Is Hard**
 •	Quality and Understandability of Data: The data must be of high quality and the methods must be simple to grasp for machine learning to operate.
 •	Trust Issues: Healthcare practitioners often have trouble trusting machine learning models since they are hard to understand.
 •	Integration with Current Systems: Machine learning solutions are still hard to connect to the healthcare systems that are already in place.
 
-4.	How Machine Learning Can Help Healthcare
+**4.	How Machine Learning Can Help Healthcare**
 •	Personalized Healthcare: Machine learning makes care better by letting doctors create treatment plans that are specific to each patient.
 •	Predictive analytics: Machine learning (ML) makes it feasible to act before a medical emergency happens by anticipating what patients will need and what might happen.
 
-5.	 Conclusion and What to Look Forward to in the Future
+**5.	 Conclusion and What to Look Forward to in the Future**
 The Potential of Machine Learning: Using ML in healthcare could make services and patient outcomes far better. To guarantee that machine learning is used responsibly and successfully resolves problems, cooperation between data scientists, regulators, and healthcare professionals is crucial.
 Future study: More study is needed to properly understand how machine learning could be used in healthcare. This study should be focused on making users more trusting, algorithms more open, and data better.
 
 
 
 
-
+---
 **Format for week 4**
 **Introduction**
 
