@@ -194,7 +194,7 @@ The authors were upfront about the conditions that influenced their strong resul
 * It provides a strong, quantitative answer to *how* effective ML can be, with a **99.79% accuracy** metric serving as a powerful benchmark.
 
 ---
-# Paper 5: Ethical & Legal Concerns of Artificial Intelligence in the Healthcare Sector
+# Paper 6: Ethical & Legal Concerns of Artificial Intelligence in the Healthcare Sector
 ### **Summary**
 This paper shifts the focus from the technical implementation of AI to the critical ethical and legal challenges that arise when these technologies are used in healthcare. The study specifically investigates the situation in Jordan, using a focus group of legal, medical, and IT experts to understand the current landscape. The key takeaway is that while the Jordanian government and hospitals are eager to adopt AI, the country's legal system has not kept pace. It lacks a specific, dedicated law to govern AI, creating significant uncertainty and risk. The authors strongly recommend developing more comprehensive laws and prioritizing ethics training for all healthcare staff who use AI tools.
 
