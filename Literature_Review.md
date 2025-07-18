@@ -236,27 +236,35 @@ This paper discusses AI-driven healthcare system communications regarding cybers
 
 **Methodology:**
 
-         • Puts forward the JOINER framework (Joint, Optimized, Infrastructure, Network, Empowered, Research) on end-to-end secure communication.
+• Puts forward the JOINER framework (Joint, Optimized, Infrastructure, Network, Empowered, Research) on end-to-end secure communication.
+
+• Uses XAI and federated learning (FED-XAI) in order to support collaborative AI training without compromising privacy of data.
+
+• Installs measures of proactive security (e.g., happiness wall/secrecy rate monitoring, hub authentication) against ransomware.
          
-         • Uses XAI and federated learning (FED-XAI) in order to support collaborative AI training without compromising privacy of data.
-         
-         • Installs measures of proactive security (e.g., happiness wall/secrecy rate monitoring, hub authentication) against ransomware.
          
 
 **Key Findings:**
-         • The theoretical performance measures are better than current systems (e.g., data rate >200 Gbps, latency <0.1ms, reliability 99.9%, see Table 3).
-         
-         • JOINER allows security orchestration of the tasks, adapting to the level of threat.
-         
-         • Ransomware backups Offline Ransomware resilience requires offline backups.
+
+• The theoretical performance measures are better than current systems (e.g., data rate >200 Gbps, latency <0.1ms, reliability 99.9%, see Table 3).
+
+• JOINER allows security orchestration of the tasks, adapting to the level of threat.
+
+ • Ransomware backups Offline Ransomware resilience requires offline backups.
          
          
 **Research Gaps and Unresolved Issues**
+
  • **Insider Threats:** Low capability of detection of malicious actors within the company.
+ 
  • **Real-Time Scalability:** Scalability in high hardware requirements in large deployment can be problematic.
+ 
 • **Model Interpretability:** Although XAI is implemented, there remains a lack of trust over AI-based decisions.
- •** Ethical Issues:** Gender Bias in the Collection of AI Data and Algorithms Transparency.
+
+ • **Ethical Issues:** Gender Bias in the Collection of AI Data and Algorithms Transparency.
+ 
  • **Cost-Quality Trade-offs:** Reimbursement schemes (e.g. fee-for-service) overlook the concept of quality of security, subjecting them to attacks.
+ 
          
 **Conclusion**
 
