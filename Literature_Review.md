@@ -226,6 +226,41 @@ This paper's contribution is not technical but provides crucial **socio-legal co
 * It highlights the importance of **data privacy and patient trust**, key considerations for any AI security tool that handles sensitive medical records.
 * It emphasizes the "human factor," showing that the successful deployment of an AI system depends heavily on **staff training and institutional policy**. This adds a critical, non-technical dimension to the problem of improving cybersecurity.
 ---
+# **Digital Health: The Cybersecurity for AI-Based Healthcare Communication**
+
+**Summary**
+
+This paper discusses AI-driven healthcare system communications regarding cybersecurity because it should focus on responding to the threats such as ransomware proactively. It offers the JOINER framework- it is a policy-based solution that bonds Explainable AI (XAI) and federated learning to protect communication hubs. This study brings to light the importance of protecting the healthcare infrastructure, in particular, during the digital transformation efforts governed by Saudi Vision 2030, and provides a theoretical design that fits the expectations of a changing threat landscape.
+
+****Key Findings and Methodologies**
+
+**Methodology:**
+
+         • Puts forward the JOINER framework (Joint, Optimized, Infrastructure, Network, Empowered, Research) on end-to-end secure communication.
+         • Uses XAI and federated learning (FED-XAI) in order to support collaborative AI training without compromising privacy of data.
+         • Installs measures of proactive security (e.g., happiness wall/secrecy rate monitoring, hub authentication) against ransomware.
+
+**Key Findings:**
+         • The theoretical performance measures are better than current systems (e.g., data rate >200 Gbps, latency <0.1ms, reliability 99.9%, see Table 3).
+         • JOINER allows security orchestration of the tasks, adapting to the level of threat.
+         • Ransomware backups Offline Ransomware resilience requires offline backups.
+         
+**Research Gaps and Unresolved Issues**
+         • **Insider Threats:** Low capability of detection of malicious actors within the company.
+         • **Real-Time Scalability:** Scalability in high hardware requirements in large deployment can be problematic.
+         • **Model Interpretability:** Although XAI is implemented, there remains a lack of trust over AI-based decisions.
+         •** Ethical Issues:** Gender Bias in the Collection of AI Data and Algorithms Transparency.
+         • **Cost-Quality Trade-offs:** Reimbursement schemes (e.g. fee-for-service) overlook the concept of quality of security, subjecting them to attacks.
+         
+**Conclusion**
+
+In the paper, a conceptual blueprint of policy-centric cybersecurity in AI-based healthcare communications is presented whose gaps can be filled by technical and governance barriers. It also combines JOINER and XAI in a unique way to fit region-specific requirements within Saudi vision 2030, besides the identification of gaps in ethics, scalability as well as reimbursement to be worked on in the future.
+
+--
+
+
+
+
 **Format for week 4**
 **Introduction**
 
