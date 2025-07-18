@@ -270,8 +270,51 @@ This paper discusses AI-driven healthcare system communications regarding cybers
 
 In the paper, a conceptual blueprint of policy-centric cybersecurity in AI-based healthcare communications is presented whose gaps can be filled by technical and governance barriers. It also combines JOINER and XAI in a unique way to fit region-specific requirements within Saudi vision 2030, besides the identification of gaps in ethics, scalability as well as reimbursement to be worked on in the future.
 
---
+---
 
+**Assessment of the Impact of Cyber-Attacks and Security Breaches in Diagnostic Systems on the Healthcare Sector**
+
+**Summary**
+
+This study assesses the operational implication of the ransomware attack on hospitals with a focus on the interference of the diagnostic systems. It employs simulation of 231 node network representing a hospital using an agent based simulation (CaESAR) to measure resilience measures during a cyber-attack. The study reveals the frequency of enhanced vulnerabilities caused by legacy systems and how training of the staff and fast IT recovery contributes largely to a shorter recovery period. Operating on the example of European healthcare cases (e.g., Ireland HSE attack), it offers an outline of how hospitals can maximize their resource levels and incident-response rates.
+
+**Key Findings and Methodologies**
+
+**Methodology:**
+
+• The hospital components can be modeled into various nodes, which are having interconnections with the other nodes (agent-based simulation, e.g., CaESAR).
+
+• Two conditions: Unprepared (A) vs. prepared and mitigation measures (B).
+
+• Resilience measures: R1 (Minimum performance), R2 (Minimum performance time), R3 (Recovery time), R4 (Total loss of performance).
+
+**Key Findings:**
+
+• **Scenario A (no protocols):** Performance decreases down to 3.8%, and it requires 40.2 days to go back to the normal (Table 2).
+
+• **Scenario B (with training/backups):** The performance suffers to 61.1%, and restores in 8.7 days.
+
+• Training the staff eliminated mistakes when handling operations manually; the 5 days IT restoration was critical to continuity.
+
+• Diagnostic systems that would have the greatest impact as a point of failure (cascading to 80 percent of nodes).
+
+**Research Gaps and Unresolved Issues**
+
+• **Integrations with legacy systems:** The assumption is that all the nodes are equally vulnerable; legacy heterogeneity not taken into account.
+
+• **Patient Impact Simplification:** Deterioration of patient status has a binary variable form (critical/non-critical); is not clinically specific.
+
+• **Financial Quantification:** Means that business effect (that is, loss of revenue) not calculated.
+
+• **Total AI Integration Gap:** There is no synergy with AI-based detection (solutions of Papers 3-4).
+
+• **Drill Effectiveness:** Training helps in reducing recovery time and frequency/depth optimum has not been studied.
+
+**Contribution to Research**
+
+The present paper presents a convenient simulation tool (CaESAR) to measure hospital resilience to quantitatively cross the barrier between technical and operational planning of cybersecurity. It is the only means of revealing cascading failure in diagnostic systems, and it empirically confirms the effectiveness of staff training as one of the low-cost mitigations.
+
+---
 
 
 
