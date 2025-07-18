@@ -20,11 +20,11 @@ The most serious are:
 
 •	**Artificial Intelligence (AI) & Machine Learning (ML):**
 
-          o Anomaly Detection: AI keeps watch over the traffic in networks to signal malicious threats in real-time (e.g. ransomware patterns).
+o **Anomaly Detection:** AI keeps watch over the traffic in networks to signal malicious threats in real-time (e.g. ransomware patterns).
           
-          o Predictive Defence: ML identifies attacks based on the past attacks.
+o **Predictive Defence:** ML identifies attacks based on the past attacks.
           
-          o Phishing Mitigation: AI is capable of detecting malicious email texts with high success rate.
+o **Phishing Mitigation:** AI is capable of detecting malicious email texts with high success rate.
           
 •	**Cloud Computing:** Provides scalable security, automatic updates and solid disaster recovery. Its decentralized storage prevents the effects of DDoS and ransomware.
 
