@@ -415,9 +415,13 @@ This paper is about how to protect IoT healthcare systems from keylogger attacks
 
 **Key Findings and Methodologies**
 **Methodology**:
+
   • LightGBM did a better job of finding keyloggers in real time than CNN and ANN.
+  
   • Blockchain is used to handle data safely, run smart contracts, and connect different systems.
+  
  • Federated Learning lets you train detection models in a decentralized way without giving up raw data.
+ 
 
 
 **Key Findings**:
