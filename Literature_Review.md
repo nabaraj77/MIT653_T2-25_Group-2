@@ -226,8 +226,8 @@ This paper's contribution is not technical but provides crucial **socio-legal co
 * It highlights the importance of **data privacy and patient trust**, key considerations for any AI security tool that handles sensitive medical records.
 * It emphasizes the "human factor," showing that the successful deployment of an AI system depends heavily on **staff training and institutional policy**. This adds a critical, non-technical dimension to the problem of improving cybersecurity.
 ---
-# **Digital Health: The Cybersecurity for AI-Based Healthcare Communication**
-
+# Paper 7: Digital Health: The Cybersecurity for AI-Based Healthcare Communication
+### 
 **Summary**
 
 This paper discusses AI-driven healthcare system communications regarding cybersecurity because it should focus on responding to the threats such as ransomware proactively. It offers the JOINER framework- it is a policy-based solution that bonds Explainable AI (XAI) and federated learning to protect communication hubs. This study brings to light the importance of protecting the healthcare infrastructure, in particular, during the digital transformation efforts governed by Saudi Vision 2030, and provides a theoretical design that fits the expectations of a changing threat landscape.
@@ -271,8 +271,8 @@ This paper discusses AI-driven healthcare system communications regarding cybers
 In the paper, a conceptual blueprint of policy-centric cybersecurity in AI-based healthcare communications is presented whose gaps can be filled by technical and governance barriers. It also combines JOINER and XAI in a unique way to fit region-specific requirements within Saudi vision 2030, besides the identification of gaps in ethics, scalability as well as reimbursement to be worked on in the future.
 
 ---
-
-**Assessment of the Impact of Cyber-Attacks and Security Breaches in Diagnostic Systems on the Healthcare Sector**
+# Paper 8: Assessment of the Impact of Cyber-Attacks and Security Breaches in Diagnostic Systems on the Healthcare Sector
+### 
 
 **Summary**
 
@@ -315,8 +315,8 @@ This study assesses the operational implication of the ransomware attack on hosp
 The present paper presents a convenient simulation tool (CaESAR) to measure hospital resilience to quantitatively cross the barrier between technical and operational planning of cybersecurity. It is the only means of revealing cascading failure in diagnostic systems, and it empirically confirms the effectiveness of staff training as one of the low-cost mitigations.
 
 ---
-
-**The Role of Implementing Machine Learning Approaches in Enhancing the Effectiveness of Healthcare Service**
+# Paper 9: The Role of Implementing Machine Learning Approaches in Enhancing the Effectiveness of Healthcare Service
+### 
 
 **Summary**
 
@@ -357,7 +357,79 @@ The article is an exploration of Machine Learning (ML) in healthcare with the fo
 The paper will be an empirical verification of the potential of ML in healthcare in terms of a survey of key stakeholders in addition to theoretical research. It is the first initiative to connect the problem of interpretability to a medical barrier to adoption and compile real-world applications (e.g., diagnostics of tumors, individualized diabetes treatment). It guides future work on the deployment of trustworthy AI by identifying the presence of synergies between IoT and ML and threats to bias.
 
 ---
+# Paper 10: AI Cyber Security: Enhancing Network Security with Deep Learning for Real-Time Threat Detection and Performance Evaluation
+###
+**Summary**
+This study looks at how AI, specifically deep learning, makes cybersecurity better by letting threats be found and responded to automatically and in real time.  It talks about how new AI methods can help deal with new threats like APTs, encrypted malware, and insider assaults that older methods often miss.
 
+Key Findings and Methodologies
+Methodology:
+The study uses several AI technologies together to make networks safer:
+•	Natural Language Processing (NLP) helps you go through system logs to find information about threats.
+•	Big Data Integration: Makes it possible to find correlations and dangers in big databases.
+•	Real-Time Response: Uses AI to change the flow of traffic and protect endpoints that are in danger.
+
+Key Findings:
+•	AI makes it much easier to find threats.
+•	It lets security breaches be fixed automatically and in real time.
+•	More people are using AI in cybersecurity because it can adapt and make accurate predictions.
+•	Research Gaps and Unresolved Issues
+•	Adversarial Attacks: AI systems are still open to carefully planned attacks from other AI systems.
+•	Ethical Concerns: There are still problems with justice, following the rules, and AI prejudice.
+Contribution to Research
+This paper shows that deep learning greatly improves cybersecurity readiness by making it possible to find and fix risks with little help from people.  But it stresses the need for more research to make sure that AI is strong, private, and clear.
+---
+# Paper 11: Detecting Cyber Attacks in Healthcare IoT Systems
+###
+**Summary**
+
+This study investigates cybersecurity weaknesses in hospitals that use the Internet of Things (IoT), where the hazards of DDoS attacks, ransomware, and unauthorized access are growing. It looks at AI methods that can help find things and explains how deep learning, specifically GRU-based models, can be used to protect against attacks.
+
+Key Findings and Methodologies
+Methodology:
+•	RU (Gated Recurrent Units): A deep learning architecture that was tested against (Recurrent Neural Network) RNN, LSTM, CNN, SVM, and Naive Bayes to find threats.
+•	SMOTE: this is used to balance synthetic data and real data and make anomaly detection more accurate.
+Key Findings:
+•	The GRU models were the best, with a 99.95% accuracy rate.
+•	SMOTE makes datasets and detection much better.
+•	Old gadgets and weak encryption make healthcare systems still susceptible.
+
+
+Research Gaps and Unresolved Issues
+•	Real-Time Integration: Putting detection models into action in real hospitals is not easy from a technical point of view.
+•	Different forms of attack should be shown in bigger, more realistic datasets.
+•	Human Factors: Staff training and awareness are still not fully understood, although they are very important.
+
+Contribution to Research
+This study shows that deep learning is still a good way to find IoT healthcare threats.  It shows that GRU is a better model and begs for more data sets and safe ways to integrate them to fully realize the potential of real-time defense.
+
+---
+# Paper 12: Enhancing Data Privacy of IoT Healthcare with Keylogger Attack Mitigation
+###
+**Summary**
+This paper is about how to protect IoT healthcare systems from keylogger attacks that put sensitive patient data at risk.  It talks about how well LightGBM works for real-time detection and investigates blockchain, federated learning, and edge computing to improve privacy and spread-out security tasks.
+Key Findings and Methodologies
+Methodology:
+•	LightGBM did a better job of finding keyloggers in real time than CNN and ANN.
+•	Blockchain is used to handle data safely, run smart contracts, and connect different systems.
+•	Federated Learning lets you train detection models in a decentralized way without giving up raw data.
+
+
+Key Findings:
+•	LightGBM can find keyloggers with very little delay and very high accuracy.
+•	Blockchain makes authentication stronger and makes sure that data logs can't be changed.
+•	Federated learning protects privacy and makes models work better.
+
+
+Research Gaps and Unresolved Issues
+•	Weaknesses in hardware: Physical pieces, such PS/2 keyboards, are still weak points.
+•	Lack of Awareness: A lot of healthcare workers don't know how to spot cyber dangers.
+•	Deployment Cost: It is still expensive and hard to put ML-enabled NICs to use on a large scale.
+
+Contribution to Research
+This study shows how ML and blockchain may make healthcare IoT environments safer.  It shows that LightGBM is a strong contender for finding keyloggers and stresses how important it is for future research to focus on cybersecurity frameworks that can grow, respect privacy, and be integrated.
+
+---
 **Format for week 4**
 **Introduction**
 
