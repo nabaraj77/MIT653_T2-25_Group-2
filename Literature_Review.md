@@ -362,22 +362,24 @@ The paper will be an empirical verification of the potential of ML in healthcare
 **Summary**
 This study looks at how AI, specifically deep learning, makes cybersecurity better by letting threats be found and responded to automatically and in real time.  It talks about how new AI methods can help deal with new threats like APTs, encrypted malware, and insider assaults that older methods often miss.
 
-Key Findings and Methodologies
-Methodology:
+**Key Findings and Methodologies**
+**Methodology**:
 The study uses several AI technologies together to make networks safer:
-•	Natural Language Processing (NLP) helps you go through system logs to find information about threats.
-•	Big Data Integration: Makes it possible to find correlations and dangers in big databases.
-•	Real-Time Response: Uses AI to change the flow of traffic and protect endpoints that are in danger.
+  • Natural Language Processing (NLP) helps you go through system logs to find information about threats.
+  • Big Data Integration: Makes it possible to find correlations and dangers in big databases.
+  • Real-Time Response: Uses AI to change the flow of traffic and protect endpoints that are in danger.
 
-Key Findings:
-•	AI makes it much easier to find threats.
-•	It lets security breaches be fixed automatically and in real time.
-•	More people are using AI in cybersecurity because it can adapt and make accurate predictions.
-•	Research Gaps and Unresolved Issues
-•	Adversarial Attacks: AI systems are still open to carefully planned attacks from other AI systems.
-•	Ethical Concerns: There are still problems with justice, following the rules, and AI prejudice.
-Contribution to Research
+**Key Findings**:
+   • AI makes it much easier to find threats.
+   • It lets security breaches be fixed automatically and in real time.
+   • More people are using AI in cybersecurity because it can adapt and make accurate predictions.
+   • Research Gaps and Unresolved Issues
+   • Adversarial Attacks: AI systems are still open to carefully planned attacks from other AI systems.
+   • Ethical Concerns: There are still problems with justice, following the rules, and AI prejudice.
+   
+**Contribution to Research**
 This paper shows that deep learning greatly improves cybersecurity readiness by making it possible to find and fix risks with little help from people.  But it stresses the need for more research to make sure that AI is strong, private, and clear.
+
 ---
 # Paper 11: Detecting Cyber Attacks in Healthcare IoT Systems
 ###
@@ -385,50 +387,51 @@ This paper shows that deep learning greatly improves cybersecurity readiness by 
 
 This study investigates cybersecurity weaknesses in hospitals that use the Internet of Things (IoT), where the hazards of DDoS attacks, ransomware, and unauthorized access are growing. It looks at AI methods that can help find things and explains how deep learning, specifically GRU-based models, can be used to protect against attacks.
 
-Key Findings and Methodologies
-Methodology:
-•	RU (Gated Recurrent Units): A deep learning architecture that was tested against (Recurrent Neural Network) RNN, LSTM, CNN, SVM, and Naive Bayes to find threats.
-•	SMOTE: this is used to balance synthetic data and real data and make anomaly detection more accurate.
-Key Findings:
-•	The GRU models were the best, with a 99.95% accuracy rate.
-•	SMOTE makes datasets and detection much better.
-•	Old gadgets and weak encryption make healthcare systems still susceptible.
+**Key Findings and Methodologies**
+**Methodology**:
+  • RU (Gated Recurrent Units): A deep learning architecture that was tested against (Recurrent Neural Network) RNN, LSTM, CNN, SVM, and Naive Bayes to find threats.
+  • SMOTE: this is used to balance synthetic data and real data and make anomaly detection more accurate.
+  
+**Key Findings**:
+  • The GRU models were the best, with a 99.95% accuracy rate.
+  • SMOTE makes datasets and detection much better.
+  • Old gadgets and weak encryption make healthcare systems still susceptible.
 
 
+**Research Gaps and Unresolved Issues**
+  • Real-Time Integration: Putting detection models into action in real hospitals is not easy from a technical point of view.
+  • Different forms of attack should be shown in bigger, more realistic datasets.
+  • Human Factors: Staff training and awareness are still not fully understood, although they are very important.
 
-Research Gaps and Unresolved Issues
-•	Real-Time Integration: Putting detection models into action in real hospitals is not easy from a technical point of view.
-•	Different forms of attack should be shown in bigger, more realistic datasets.
-•	Human Factors: Staff training and awareness are still not fully understood, although they are very important.
-
-Contribution to Research
+**Contribution to Research**
 This study shows that deep learning is still a good way to find IoT healthcare threats.  It shows that GRU is a better model and begs for more data sets and safe ways to integrate them to fully realize the potential of real-time defense.
 
-
 ---
+
 # Paper 12: Enhancing Data Privacy of IoT Healthcare with Keylogger Attack Mitigation
 ###
 **Summary**
 This paper is about how to protect IoT healthcare systems from keylogger attacks that put sensitive patient data at risk.  It talks about how well LightGBM works for real-time detection and investigates blockchain, federated learning, and edge computing to improve privacy and spread-out security tasks.
-Key Findings and Methodologies
-Methodology:
-•	LightGBM did a better job of finding keyloggers in real time than CNN and ANN.
-•	Blockchain is used to handle data safely, run smart contracts, and connect different systems.
-•	Federated Learning lets you train detection models in a decentralized way without giving up raw data.
+
+**Key Findings and Methodologies**
+**Methodology**:
+  • LightGBM did a better job of finding keyloggers in real time than CNN and ANN.
+  • Blockchain is used to handle data safely, run smart contracts, and connect different systems.
+ • Federated Learning lets you train detection models in a decentralized way without giving up raw data.
 
 
-Key Findings:
-•	LightGBM can find keyloggers with very little delay and very high accuracy.
-•	Blockchain makes authentication stronger and makes sure that data logs can't be changed.
-•	Federated learning protects privacy and makes models work better.
+**Key Findings**:
+  • LightGBM can find keyloggers with very little delay and very high accuracy.
+  • Blockchain makes authentication stronger and makes sure that data logs can't be changed.
+  • Federated learning protects privacy and makes models work better.
 
 
-Research Gaps and Unresolved Issues
-•	Weaknesses in hardware: Physical pieces, such PS/2 keyboards, are still weak points.
-•	Lack of Awareness: A lot of healthcare workers don't know how to spot cyber dangers.
-•	Deployment Cost: It is still expensive and hard to put ML-enabled NICs to use on a large scale.
+**Research Gaps and Unresolved Issues**
+  • Weaknesses in hardware: Physical pieces, such PS/2 keyboards, are still weak points.
+  • Lack of Awareness: A lot of healthcare workers don't know how to spot cyber dangers.
+  • Deployment Cost: It is still expensive and hard to put ML-enabled NICs to use on a large scale.
 
-Contribution to Research
+**Contribution to Research**
 This study shows how ML and blockchain may make healthcare IoT environments safer.  It shows that LightGBM is a strong contender for finding keyloggers and stresses how important it is for future research to focus on cybersecurity frameworks that can grow, respect privacy, and be integrated.
 
 ---
