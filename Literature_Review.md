@@ -385,7 +385,7 @@ This paper shows that deep learning greatly improves cybersecurity readiness by 
 ###
 **Summary**
 
-This study investigates cybersecurity weaknesses in hospitals that use the Internet of Things (IoT), where the hazards of DDoS attacks, ransomware, and unauthorized access are growing. It looks at AI methods that can help find things and explains how deep learning, specifically GRU-based models, can be used to protect against attacks.
+This study looks at how hospitals that use the Internet of Things (IoT) are vulnerable to cyberattacks such DDoS attacks, ransomware, and unauthorised access, which are becoming more common. It looks at AI methods that can help find things and explains how deep learning, specifically GRU-based models, can be used to protect against attacks.
 
 **Key Findings and Methodologies**
 **Methodology**:
