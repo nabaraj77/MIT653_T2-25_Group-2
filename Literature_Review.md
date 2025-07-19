@@ -424,9 +424,9 @@ This paper is about how to protect IoT healthcare systems from keylogger attacks
  
 
 **Key Findings**:
-  • LightGBM can find keyloggers with very little delay and very high accuracy.
-  • Blockchain makes authentication stronger and makes sure that data logs can't be changed.
-  • Federated learning protects privacy and makes models work better.
+• LightGBM can find keyloggers with very little delay and very high accuracy.
+• Blockchain makes authentication stronger and makes sure that data logs can't be changed.
+• Federated learning protects privacy and makes models work better.
 
 
 **Research Gaps and Unresolved Issues**
