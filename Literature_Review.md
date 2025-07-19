@@ -395,6 +395,7 @@ Key Findings:
 •	Old gadgets and weak encryption make healthcare systems still susceptible.
 
 
+
 Research Gaps and Unresolved Issues
 •	Real-Time Integration: Putting detection models into action in real hospitals is not easy from a technical point of view.
 •	Different forms of attack should be shown in bigger, more realistic datasets.
@@ -402,6 +403,7 @@ Research Gaps and Unresolved Issues
 
 Contribution to Research
 This study shows that deep learning is still a good way to find IoT healthcare threats.  It shows that GRU is a better model and begs for more data sets and safe ways to integrate them to fully realize the potential of real-time defense.
+
 
 ---
 # Paper 12: Enhancing Data Privacy of IoT Healthcare with Keylogger Attack Mitigation
