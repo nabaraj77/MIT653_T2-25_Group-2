@@ -1,5 +1,5 @@
-Literature Review: **Emerging Technologies and Cybersecurity Challenges in Healthcare**   By: Nabaraj Dahal
-
+# Paper 1: Literature Review: **Emerging Technologies and Cybersecurity Challenges in Healthcare**   By: Nabaraj Dahal
+###
 
 **1.	The Evolving Threat Landscape in Healthcare**
 The sensitivity of patient information and vital medical facilities exposes the healthcare organizations to extreme cyber threats.
@@ -60,18 +60,27 @@ Although block chain, AI, and zero-trust architectures can provide strong protec
 ---
 
 
-Literature Review: **The Role of Implementing Machine Learning Approaches in Enhancing the Effectiveness of Healthcare Services** By:**Abhishek Maharjan**
+# Paper 2:Literature Review: **The Role of Implementing Machine Learning Approaches in Enhancing the Effectiveness of Healthcare Services** By:**Abhishek Maharjan**
+###
 
 **1.	Introduction to Machine Learning in Healthcare**
+
 •	What it is and why it's important: Machine Learning (ML) is a new technology that helps us understand massive data better, especially in the health field.
-•	Uses: ML helps people make better decisions in many areas, such as:
+
+Uses: ML helps people make better decisions in many areas, such as:
+
 •	Disease assessment and treatment predictions
+
 •	Pharmaceutical product development
+
 •	Biomarker recognition
+
 •	Patient monitoring and management
+
 Current Trends: The Internet of Things (IoT) and machine learning (ML) are changing healthcare by making it possible to provide customized care and use predictive analytics.
 
-**2.	How Machine Learning Affects Healthcare Services**
+**2.	How Machine Learning Affects Healthcare Services**: 
+
           • Use of Data: The amount of data in healthcare is growing quickly, thus it needs to be analyses quickly to improve patient outcomes.
           • Health prediction systems say that ML algorithms can handle unexpected changes in patient flows, including those that happen during disasters or calamities.
           • Results of the survey:   The study included 78 medical professionals and found:
@@ -80,17 +89,25 @@ Current Trends: The Internet of Things (IoT) and machine learning (ML) are chang
 
 
 **3.	Putting Machine Learning into Action Is Hard**
+
 •	Quality and Understandability of Data: The data must be of high quality and the methods must be simple to grasp for machine learning to operate.
+
 •	Trust Issues: Healthcare practitioners often have trouble trusting machine learning models since they are hard to understand.
+
 •	Integration with Current Systems: Machine learning solutions are still hard to connect to the healthcare systems that are already in place.
 
+
 **4.	How Machine Learning Can Help Healthcare**
+
 •	Personalized Healthcare: Machine learning makes care better by letting doctors create treatment plans that are specific to each patient.
-•	Predictive analytics: Machine learning (ML) makes it feasible to act before a medical emergency happens by anticipating what patients will need and what might happen.
+
+•	Predictive analytics: Machine learning (ML) makes it feasible to act before a medical emergency happens by anticipating what patients will need and what might               happen.
+
 
 **5.	 Conclusion and What to Look Forward to in the Future**
-The Potential of Machine Learning: Using ML in healthcare could make services and patient outcomes far better. To guarantee that machine learning is used responsibly and successfully resolves problems, cooperation between data scientists, regulators, and healthcare professionals is crucial.
-Future study: More study is needed to properly understand how machine learning could be used in healthcare. This study should be focused on making users more trusting, algorithms more open, and data better.
+
+          The Potential of Machine Learning: Using ML in healthcare could make services and patient outcomes far better. To guarantee that machine learning is                         used responsibly and successfully resolves problems, cooperation between data scientists, regulators, and healthcare professionals is crucial.
+          Future study: More study is needed to properly understand how machine learning could be used in healthcare. This study should be focused on making users more                trusting, algorithms more open, and data better.
 
 ---
 # Paper 3: Deep Learning-Driven Cybersecurity Threat Detection and Mitigation in Saudi Arabia Healthcare System
@@ -365,17 +382,28 @@ This study looks at how AI, specifically deep learning, makes cybersecurity bett
 **Key Findings and Methodologies**
 **Methodology**:
 The study uses several AI technologies together to make networks safer:
+
   • Natural Language Processing (NLP) helps you go through system logs to find information about threats.
+  
   • Big Data Integration: Makes it possible to find correlations and dangers in big databases.
+  
   • Real-Time Response: Uses AI to change the flow of traffic and protect endpoints that are in danger.
+  
 
 **Key Findings**:
+
    • AI makes it much easier to find threats.
+   
    • It lets security breaches be fixed automatically and in real time.
+   
    • More people are using AI in cybersecurity because it can adapt and make accurate predictions.
+   
    • Research Gaps and Unresolved Issues
+   
    • Adversarial Attacks: AI systems are still open to carefully planned attacks from other AI systems.
+   
    • Ethical Concerns: There are still problems with justice, following the rules, and AI prejudice.
+   
    
 **Contribution to Research**
 This paper shows that deep learning greatly improves cybersecurity readiness by making it possible to find and fix risks with little help from people.  But it stresses the need for more research to make sure that AI is strong, private, and clear.
@@ -389,19 +417,30 @@ This study looks at how hospitals that use the Internet of Things (IoT) are vuln
 
 **Key Findings and Methodologies**
 **Methodology**:
+
   • RU (Gated Recurrent Units): A deep learning architecture that was tested against (Recurrent Neural Network) RNN, LSTM, CNN, SVM, and Naive Bayes to find threats.
+  
   • SMOTE: this is used to balance synthetic data and real data and make anomaly detection more accurate.
   
+  
 **Key Findings**:
+
   • The GRU models were the best, with a 99.95% accuracy rate.
+  
   • SMOTE makes datasets and detection much better.
+  
   • Old gadgets and weak encryption make healthcare systems still susceptible.
+  
 
 
 **Research Gaps and Unresolved Issues**
+
   • Real-Time Integration: Putting detection models into action in real hospitals is not easy from a technical point of view.
+  
   • Different forms of attack should be shown in bigger, more realistic datasets.
+  
   • Human Factors: Staff training and awareness are still not fully understood, although they are very important.
+  
 
 **Contribution to Research**
 This study shows that deep learning is still a good way to find IoT healthcare threats.  It shows that GRU is a better model and begs for more data sets and safe ways to integrate them to fully realize the potential of real-time defense.
@@ -424,15 +463,24 @@ This paper is about how to protect IoT healthcare systems from keylogger attacks
  
 
 **Key Findings**:
+
+
 • LightGBM can find keyloggers with very little delay and very high accuracy.
+
 • Blockchain makes authentication stronger and makes sure that data logs can't be changed.
+
 • Federated learning protects privacy and makes models work better.
 
 
 **Research Gaps and Unresolved Issues**
+
+
   • Weaknesses in hardware: Physical pieces, such PS/2 keyboards, are still weak points.
+  
   • Lack of Awareness: A lot of healthcare workers don't know how to spot cyber dangers.
+  
   • Deployment Cost: It is still expensive and hard to put ML-enabled NICs to use on a large scale.
+  
 
 **Contribution to Research**
 This study shows how ML and blockchain may make healthcare IoT environments safer.  It shows that LightGBM is a strong contender for finding keyloggers and stresses how important it is for future research to focus on cybersecurity frameworks that can grow, respect privacy, and be integrated.
@@ -446,37 +494,88 @@ This article looks at how ransomware attacks have been going after healthcare in
 
 **Key Findings and Methodologies**
 **Methodologies**:
+
 •	Blockchain is used to safely store patient data, make things more open, and run smart contracts that assist preserve data and verify transactions.
+
 •	We use behaviour analysis and anomaly detection to find ransomware using machine learning (ML) methods including Random Forests, SVM, and KNN.
-•	Software Defined Networking (SDN) lets you manage your network in a flexible way so you can find and isolate systems that have been affected with ransomware, like WannaCry.
+
+•	Software Defined Networking (SDN) lets you manage your network in a flexible way so you can find and isolate systems that have been affected with ransomware, like           WannaCry.
+
 •	Intrusion detection systems (IDS), socio-technical techniques, and one-way network communication (data diodes) are some of the other strategies.
 
 
 **Key Findings**:
+
 •	Blockchain provides decentralised, unchangeable storage, which makes medical records more reliable and easier to follow.
+
 •	ML models were quite good at finding ransomware, with an accuracy of up to 98%, utilising things like I/O logs and network activity.
+
 •	 SDN-based frameworks worked to limit and lessen live ransomware threats.
+
 •	One big problem with ML-based studies is that there aren't enough good ransomware datasets.
+
 •	 For full protection, there needs to be multi-layered security that includes people, networks, and software.
 
 
+
 **Research Gaps and Unresolved Issues**
+
 •	Zero-day Vulnerabilities: Intrusion Detection Systems may not be able to find new or complex assaults.
-•	Cost and scalability: Using blockchain and SDN technologies in healthcare networks can be expensive and hard to do, especially in places where resources are limited.
-•	Not enough backup plans: Many organizations only back up their data once a day, which isn't enough to protect against contemporary ransomware that also targets backup systems.
+
+•	Cost and scalability: Using blockchain and SDN technologies in healthcare networks can be expensive and hard to do, especially in places where resources are                 limited.
+
+•	Not enough backup plans: Many organizations only back up their data once a day, which isn't enough to protect against contemporary ransomware that also targets              backup systems.
+
 •	Training and Awareness: Most of the Staff and users often lack training to recognize phishing or ransomwares vectors.
+
 Contribution to Research
 This study brings together what we now know about ransomware risks in healthcare and organizes them into groups based on the sorts of attacks, the responses, and the technologies that can be used to fight against them. It makes a big difference in the sector by suggesting that blockchain, ML, and SDN be used together as a multi-pronged security strategy. It also shows how important it is to have cybersecurity frameworks that are adaptable and can grow with the needs of healthcare systems while still protecting privacy and making technologies more robust. Future study should try to fill in the gaps in the availability of datasets, how to protect against zero-day attacks, and whether the proposed solutions are economically viable.
 
-
 ---
-**Format for week 4**
+
+# **Format for week 4**
+###
 **Introduction**
+
+The healthcare industry's move to digital has made patient care, diagnosis accuracy, and operational efficiency much better. Cyber threats have also become easier to get into systems because people use new technologies like the Internet of Things (IoT), Machine Learning (ML), Artificial Intelligence (AI), and cloud computing so quickly. Healthcare businesses are having more trouble with cybersecurity, especially when it comes to ransomware, phishing, Distributed Denial of Service (DDoS) attacks, and data breaches. Cybercriminals consider healthcare organizations as high-value targets since patient data is sensitive, the IT infrastructure isn't getting enough money, and there aren't enough qualified cybersecurity personnel.
+          
+People are also researching into and employing new technology to make these risks less likely to happen. Two technologies that help keep data private and safe are blockchain and federated learning. AI and ML are being used more to discover dangers, predict assaults, and spot strange behavior. But even while technology has come a long way, there are still huge problems with making rules the same across the board, making AI models easier to understand, and the ethical challenges of using AI in healthcare settings. This literature review goes into great detail about the most recent studies on cybersecurity in healthcare. It focuses on the use of AI and machine learning, the challenges that arise when trying to combine legal and operational systems, and the effects of ransomware.
 
 **Purpose and Aims of the Literature Review**
 
+The main goal of this literature review is to find out how well new technological defences work and to look at the research that has already been done on cybersecurity threats in healthcare. In more detail, the goals are to:
+
+•	Check out how the risks to healthcare are changing, like ransomware, phishing, IoT vulnerabilities, and assaults from inside the company.
+
+•	Look at how new technologies like blockchain, machine learning, deep learning, federated learning, and software-defined networking might help find and stop these            threats.
+
+•	Find out about the legal, ethical, and practical issues that make it impossible to use advanced AI-based security systems in healthcare settings.
+
+•	Point up the problems with research, such as the lack of real-world datasets, the difficulty of understanding the data, and the lack of resources in healthcare              systems with low to middle incomes.
+
+•	Look for AI-based cybersecurity solutions that can grow, protect privacy, and function well in healthcare settings to support future research.
+
+
 
 **Literature Review Process**
+
+The literature research was done in a methodical way, including thirteen academic articles and reports from businesses that came out between 2023 and 2025. The rules for picking articles were:
+
+•	Talked on the issues and dangers of cybersecurity in the medical field.
+
+•	Talked to us about the issues that come up in healthcare cybersecurity that have to do with the law, morals, or rules.
+
+The review was based on a few main points:
+
+•	Some examples of technical defences are hybrid deep learning, blockchain, LightGBM, and Random Forest.
+
+•	Laws and policies, like NIST and HIPAA, and some situations where data governance isn't particularly strong.
+
+•	Learning and being able to get back to work quickly.
+
+•	Issues with morals and comprehension while employing AI systems.
+
+We talked about the process, the most important conclusions, the study's limits, and how each piece of work helps the profession. You can see the complete picture of where cybersecurity is now and what will be needed in the future in digital healthcare settings if you look at it from technological, ethical, and socio-legal points of view.
 
 
 **References(including 10 articles that you selected)**
