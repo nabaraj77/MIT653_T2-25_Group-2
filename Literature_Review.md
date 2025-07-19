@@ -423,7 +423,6 @@ This paper is about how to protect IoT healthcare systems from keylogger attacks
  • Federated Learning lets you train detection models in a decentralized way without giving up raw data.
  
 
-
 **Key Findings**:
   • LightGBM can find keyloggers with very little delay and very high accuracy.
   • Blockchain makes authentication stronger and makes sure that data logs can't be changed.
@@ -442,34 +441,32 @@ This study shows how ML and blockchain may make healthcare IoT environments safe
 **A Survey of Ransomware Attacks for Healthcare Systems: Risks, Challenges, Solutions and Opportunity of Research**
 
 **Summary**
-This paper examines how ransomware attacks have increasingly targeted healthcare systems, exploiting vulnerabilities in their digital infrastructure. It surveys the classifications of ransomware attacks, their lifecycle, and the specific threats they pose to healthcare operations and patient data. The study also reviews the effectiveness of emerging solutions including blockchain, machine learning (ML), and software-defined networking (SDN), while highlighting the urgent need for improved security frameworks.
+This article looks at how ransomware attacks have been going after healthcare institutions increasingly, taking advantage of weaknesses in their digital architecture. The report also looks at how well new technologies like blockchain, machine learning (ML), and software-defined networking (SDN) operate, while also stressing the need for better security frameworks right now.
 
-Key Findings and Methodologies
-Methodologies:
-• Blockchain is used for securely managing patient data, enhancing transparency, and executing smart contracts that help in data protection and transaction validation.
-
-•Machine Learning (ML) techniques, such as Random Forests, SVM, and KNN, are applied to detect ransomware through behavior analysis and anomaly detection.
-•	Software Defined Networking (SDN) provides flexible network management to detect and isolate ransomware-infected systems, notably tested against WannaCry.
-Other strategies include intrusion detection systems (IDS), socio-technical approaches, and one-way network communication (data diodes).
-
-Key Findings:
-•	Blockchain offers immutable, decentralized storage, which improves the integrity and traceability of medical records.
-•	ML models showed high accuracy (up to 98%) in ransomware detection using features like I/O logs and network activity.
-•	SDN-based frameworks were successful in blocking and mitigating live ransomware threats.
-•	Lack of high-quality ransomware datasets is a critical limitation in ML-based studies.
-•	Multi-layered security involving human, network, and software factors is necessary for comprehensive protection.
+**Key Findings and Methodologies**
+**Methodologies**:
+•	Blockchain is used to safely store patient data, make things more open, and run smart contracts that assist preserve data and verify transactions.
+•	We use behaviour analysis and anomaly detection to find ransomware using machine learning (ML) methods including Random Forests, SVM, and KNN.
+•	Software Defined Networking (SDN) lets you manage your network in a flexible way so you can find and isolate systems that have been affected with ransomware, like WannaCry.
+•	Intrusion detection systems (IDS), socio-technical techniques, and one-way network communication (data diodes) are some of the other strategies.
 
 
+**Key Findings**:
+•	Blockchain provides decentralised, unchangeable storage, which makes medical records more reliable and easier to follow.
+•	ML models were quite good at finding ransomware, with an accuracy of up to 98%, utilising things like I/O logs and network activity.
+•	 SDN-based frameworks worked to limit and lessen live ransomware threats.
+•	One big problem with ML-based studies is that there aren't enough good ransomware datasets.
+•	 For full protection, there needs to be multi-layered security that includes people, networks, and software.
 
-Research Gaps and Unresolved Issues
-•	Lack of Quality Datasets: A severe shortage of publicly available, labeled ransomware datasets hampers the development of robust ML detection models.
-•	Zero-day Vulnerabilities: Intrusion Detection Systems may fail to detect novel or sophisticated attacks.
-•	Scalability and Cost: Implementing blockchain and SDN technologies across healthcare networks can be costly and complex, especially in resource-limited settings.
-•	Insufficient Backup Strategies: Many institutions rely on daily backups, which are inadequate against modern ransomware that also targets backup systems.
-•	Awareness and Training: Staff and users often lack training to recognize phishing or social engineering-based ransomware vectors.
 
+**Research Gaps and Unresolved Issues**
+•	Zero-day Vulnerabilities: Intrusion Detection Systems may not be able to find new or complex assaults.
+•	Cost and scalability: Using blockchain and SDN technologies in healthcare networks can be expensive and hard to do, especially in places where resources are limited.
+•	Not enough backup plans: Many organizations only back up their data once a day, which isn't enough to protect against contemporary ransomware that also targets backup systems.
+•	Training and Awareness: Most of the Staff and users often lack training to recognize phishing or ransomwares vectors.
 Contribution to Research
-This paper consolidates existing knowledge on ransomware threats within healthcare and systematically categorizes attack types, responses, and protective technologies. It contributes significantly to the field by recommending the integration of blockchain, ML, and SDN as a multi-pronged security approach. It also stresses the need for adaptive and scalable cybersecurity frameworks that ensure privacy, resilience, and interoperability in healthcare systems. Future research should aim to address the gaps in dataset availability, defense against zero-day attacks, and the economic feasibility of proposed solutions.
+This study brings together what we now know about ransomware risks in healthcare and organizes them into groups based on the sorts of attacks, the responses, and the technologies that can be used to fight against them. It makes a big difference in the sector by suggesting that blockchain, ML, and SDN be used together as a multi-pronged security strategy. It also shows how important it is to have cybersecurity frameworks that are adaptable and can grow with the needs of healthcare systems while still protecting privacy and making technologies more robust. Future study should try to fill in the gaps in the availability of datasets, how to protect against zero-day attacks, and whether the proposed solutions are economically viable.
+
 
 ---
 **Format for week 4**
