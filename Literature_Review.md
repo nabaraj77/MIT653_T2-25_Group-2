@@ -438,7 +438,7 @@ This paper is about how to protect IoT healthcare systems from keylogger attacks
 This study shows how ML and blockchain may make healthcare IoT environments safer.  It shows that LightGBM is a strong contender for finding keyloggers and stresses how important it is for future research to focus on cybersecurity frameworks that can grow, respect privacy, and be integrated.
 
 ---
-**A Survey of Ransomware Attacks for Healthcare Systems: Risks, Challenges, Solutions and Opportunity of Research**
+#Paper 13: A Survey of Ransomware Attacks for Healthcare Systems: Risks, Challenges, Solutions and Opportunity of Research##
 
 **Summary**
 This article looks at how ransomware attacks have been going after healthcare institutions increasingly, taking advantage of weaknesses in their digital architecture. The report also looks at how well new technologies like blockchain, machine learning (ML), and software-defined networking (SDN) operate, while also stressing the need for better security frameworks right now.
