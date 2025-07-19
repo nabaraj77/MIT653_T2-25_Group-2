@@ -439,6 +439,38 @@ This paper is about how to protect IoT healthcare systems from keylogger attacks
 This study shows how ML and blockchain may make healthcare IoT environments safer.  It shows that LightGBM is a strong contender for finding keyloggers and stresses how important it is for future research to focus on cybersecurity frameworks that can grow, respect privacy, and be integrated.
 
 ---
+A Survey of Ransomware Attacks for Healthcare Systems: Risks, Challenges, Solutions and Opportunity of Research
+Summary
+This paper examines how ransomware attacks have increasingly targeted healthcare systems, exploiting vulnerabilities in their digital infrastructure. It surveys the classifications of ransomware attacks, their lifecycle, and the specific threats they pose to healthcare operations and patient data. The study also reviews the effectiveness of emerging solutions including blockchain, machine learning (ML), and software-defined networking (SDN), while highlighting the urgent need for improved security frameworks.
+
+Key Findings and Methodologies
+Methodologies:
+• Blockchain is used for securely managing patient data, enhancing transparency, and executing smart contracts that help in data protection and transaction validation.
+
+•Machine Learning (ML) techniques, such as Random Forests, SVM, and KNN, are applied to detect ransomware through behavior analysis and anomaly detection.
+•	Software Defined Networking (SDN) provides flexible network management to detect and isolate ransomware-infected systems, notably tested against WannaCry.
+Other strategies include intrusion detection systems (IDS), socio-technical approaches, and one-way network communication (data diodes).
+
+Key Findings:
+•	Blockchain offers immutable, decentralized storage, which improves the integrity and traceability of medical records.
+•	ML models showed high accuracy (up to 98%) in ransomware detection using features like I/O logs and network activity.
+•	SDN-based frameworks were successful in blocking and mitigating live ransomware threats.
+•	Lack of high-quality ransomware datasets is a critical limitation in ML-based studies.
+•	Multi-layered security involving human, network, and software factors is necessary for comprehensive protection.
+
+
+
+Research Gaps and Unresolved Issues
+•	Lack of Quality Datasets: A severe shortage of publicly available, labeled ransomware datasets hampers the development of robust ML detection models.
+•	Zero-day Vulnerabilities: Intrusion Detection Systems may fail to detect novel or sophisticated attacks.
+•	Scalability and Cost: Implementing blockchain and SDN technologies across healthcare networks can be costly and complex, especially in resource-limited settings.
+•	Insufficient Backup Strategies: Many institutions rely on daily backups, which are inadequate against modern ransomware that also targets backup systems.
+•	Awareness and Training: Staff and users often lack training to recognize phishing or social engineering-based ransomware vectors.
+
+Contribution to Research
+This paper consolidates existing knowledge on ransomware threats within healthcare and systematically categorizes attack types, responses, and protective technologies. It contributes significantly to the field by recommending the integration of blockchain, ML, and SDN as a multi-pronged security approach. It also stresses the need for adaptive and scalable cybersecurity frameworks that ensure privacy, resilience, and interoperability in healthcare systems. Future research should aim to address the gaps in dataset availability, defense against zero-day attacks, and the economic feasibility of proposed solutions.
+
+---
 **Format for week 4**
 **Introduction**
 
