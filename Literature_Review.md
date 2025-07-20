@@ -1,4 +1,4 @@
-# Paper 1: Literature Review: **Emerging Technologies and Cybersecurity Challenges in Healthcare**   By: Nabaraj Dahal
+# Paper 1: Literature Review: **Emerging Technologies and Cybersecurity Challenges in Healthcare**  
 ###
 
 **1.	The Evolving Threat Landscape in Healthcare**
@@ -60,7 +60,7 @@ Although block chain, AI, and zero-trust architectures can provide strong protec
 ---
 
 
-# Paper 2:Literature Review: **The Role of Implementing Machine Learning Approaches in Enhancing the Effectiveness of Healthcare Services** By:**Abhishek Maharjan**
+# Paper 2:Literature Review: **The Role of Implementing Machine Learning Approaches in Enhancing the Effectiveness of Healthcare Services** 
 ###
 
 **1.	Introduction to Machine Learning in Healthcare**
