@@ -533,7 +533,6 @@ This study brings together what we now know about ransomware risks in healthcare
 
 ---
 
-# **Format for week 4**
 ###
 **Introduction**
 
@@ -579,3 +578,65 @@ We talked about the process, the most important conclusions, the study's limits,
 
 
 **References(including 10 articles that you selected)**
+1. S. Jain, P. Ashok and S. Prabhu, "Emerging Technologies for Cybersecurity in 
+Healthcare: Evaluating Risks and Implementing Standards," 2024 
+International Conference on Cybernation and Computation (CYBERCOM), 
+Dehradun, India, 2024, pp. 725-731, doi: 
+10.1109/CYBERCOM63683.2024.10803219. 
+2. S. K. UmaMaheswaran, N. K. Munagala, D. Mishra, B. Othman, S. SINTHU 
+and V. Tripathi, "The role of implementing Machine Learning approaches in 
+enhancing the effectiveness of HealthCare service," 2022 2nd International 
+Conference on Advance Computing and Innovative Technologies in 
+Engineering (ICACITE), Greater Noida, India, 2022, pp. 1922-1926, doi: 
+10.1109/ICACITE53722.2022.9823656. 
+3. M. Aljaramiz, M. Khurana, F. Aljarameez and N. Alnasiry, "Deep Learning
+Driven Cybersecurity Threat Detection and Mitigation in Saudi Arabia 
+Healthcare System," 2024 International Conference on IT Innovation and 
+Knowledge Discovery (ITIKD), Manama, Bahrain, 2025, pp. 1-5, doi: 
+10.1109/ITIKD63574.2025.11004975. 
+4. P. Rubint, Z. Rajnai and B. Bordács, "Influence of Ransomware Attacks in the 
+Healthcare Industry," 2025 IEEE 19th International Symposium on Applied 
+Computational Intelligence and Informatics (SACI), Timisoara, Romania, 
+2025, pp. 000285-000290, doi: 10.1109/SACI66288.2025.11030175. 
+5. A. Khan and I. Sharma, "Machine Learning-Based Methodology for 
+Preventing Ransomware Attacks on Healthcare Sector," 2023 International 
+Conference on Research Methodologies in Knowledge Management, Artificial 
+Intelligence and Telecommunication Engineering (RMKMATE), Chennai, 
+India, 2023, pp. 1-5, doi: 10.1109/RMKMATE59243.2023.10368971. 
+6. A. Q. Bataineh, A. S. Mushtaha, I. A. Abu-AlSondos, S. H. Aldulaimi and M. 
+Abdeldayem, "Ethical & Legal Concerns of Artificial Intelligence in the 
+Healthcare Sector," 2024 ASU International Conference in Emerging 
+Technologies for Sustainability and Intelligent Systems (ICETSIS), Manama, 
+Bahrain, 2024, pp. 491-495, doi: 10.1109/ICETSIS61505.2024.10459438. 
+7. A. M. Algarni and V. Thayananthan, "Digital Health: The Cybersecurity for AI
+Based Healthcare Communication," in IEEE Access, vol. 13, pp. 5858-5870, 
+2025, doi: 10.1109/ACCESS.2025.3526666. 
+8. K. Srivastava et al., "Assessment of the Impact of Cyber-Attacks and Security 
+Breaches in Diagnostic Systems on the Healthcare Sector," 2024 IEEE 
+International Conference on Cyber Security and Resilience (CSR), London, 
+United Kingdom, 2024, pp. 531-536, doi: 10.1109/CSR61664.2024.10679475. 
+17 
+9. S. K. UmaMaheswaran, N. K. Munagala, D. Mishra, B. Othman, S. SINTHU 
+and V. Tripathi, "The role of implementing Machine Learning approaches in 
+enhancing the effectiveness of HealthCare service," 2022 2nd International 
+Conference on Advance Computing and Innovative Technologies in 
+Engineering (ICACITE), Greater Noida, India, 2022, pp. 1922-1926, doi: 
+10.1109/ICACITE53722.2022.9823656. 
+10. S. JothiShri, T. Upender, R. J. Ravikumar, Y. Sailaja, E. Yuvabharathi and J. 
+Agnestreesa, "AI Cyber Security: Enhancing Network Security with Deep 
+Learning for Real-Time Threat Detection and Performance Evaluation," 2024 
+3rd International Conference for Advancement in Technology (ICONAT), GOA, 
+India, 2024, pp. 1-6, doi: 10.1109/ICONAT61936.2024.10774912. 
+11. T. Kacem, S. Tossou and A. Muir, "Detecting Cyber Attacks in Healthcare IoT 
+Systems," 2024 International Conference on AI x Data and Knowledge 
+Engineering (AIxDKE), Tokyo, Japan, 2024, pp. 80-85, doi: 
+10.1109/AIxDKE63520.2024.00022. 
+12. A. Kumar and I. Sharma, "Enhancing Data Privacy of IoT Healthcare with 
+Keylogger Attack Mitigation," 2023 4th International Conference for Emerging 
+Technology (INCET), Belgaum, India, 2023, pp. 1-6, doi: 
+10.1109/INCET57972.2023.10170531. 
+13. N. Thamer and R. Alubady, "A Survey of Ransomware Attacks for Healthcare 
+Systems: Risks, Challenges, Solutions and Opportunity of Research," 2021 
+1st Babylon International Conference on Information Technology and Science 
+(BICITS), Babil, Iraq, 2021, pp. 210-216, doi: 
+10.1109/BICITS51482.2021.9509877.
