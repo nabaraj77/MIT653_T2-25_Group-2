@@ -24,12 +24,12 @@
 # 🗓️ Project Deadlines
 
 ##  Literature Review  
-- **Report Submission:** 20 July, 11:59 PM  
-- **Presentation:** 21 July (during Week 6 class)
+- **Report Submission: 27 July, 11:59 PM**   
+- **Presentation: 28 July (during Week 7 class)** 
 
 ## Research Proposal  
-- **Survey Design:** 
-- **Data Analysis:**  
-- **Research Ethics Approval:** 
-- **Proposal Submission:**   
+- **Survey Design: 3rd Aug** 
+- **Data Analysis: 17th Aug**  
+- **Research Ethics Approval: 24th Aug** 
+- **Proposal Submission: 31st Aug**   
 - **Presentation:** 
