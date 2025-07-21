@@ -32,4 +32,4 @@
 - **Data Analysis: 17th Aug**  
 - **Research Ethics Approval: 24th Aug** 
 - **Proposal Submission: 31st Aug**   
-- **Presentation:** 
+- **Presentation: 01 September** 
