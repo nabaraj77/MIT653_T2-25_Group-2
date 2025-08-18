@@ -11,3 +11,7 @@
 - Research Question and Hypothesis: 100%
 
 - Literature Review (Review of 3 papers): 0%
+
+# Week 10 (assessed on 18/08/25)
+
+- Survey Design: 100%
