@@ -81,7 +81,7 @@ The survey will have **7 closed-ended questions** to gather quantitative data an
 
 #### **Open-Ended Question**
 
-8.  In your opinion, what is the single biggest improvement AI has brought to your hospital's security, OR the biggest gap it still needs to address?
+8.  In your opinion, what is the single biggest improvement AI has brought to your hospital's security, OR the biggest gap it still needs to addressed?
 
 ***
 
