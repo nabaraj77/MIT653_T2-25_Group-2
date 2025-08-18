@@ -73,7 +73,7 @@ The survey will have **7 closed-ended questions** to gather quantitative data an
     * Ransomware activity suspected
     * Network intrusion alert
 
-7.  **Do AI security tools save your team time on investigations? (Ordinal Scale)**
+7. **Do you think AI security tools can save your team time on investigations? (Ordinal Scale)**
     * Yes, a lot of time
     * Yes, a little time
     * No, it's about the same
