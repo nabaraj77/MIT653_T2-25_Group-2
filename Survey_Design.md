@@ -92,3 +92,16 @@ Handling the data ethically is crucial because of the sensitive topic. We will f
 * **Informed Consent:** We will clearly explain the survey's academic purpose and state that participation is completely voluntary. We will also inform participants that they have the right to withdraw at any time.
 * **Confidentiality:** The survey will be **anonymous**. We will not collect names, email addresses, or hospital names. This is essential to ensure participants feel safe providing honest answers about their organization's security.
 * **Data Privacy:** All collected data will be stored securely, and only the research team members will have access to it.
+
+### Informed Consent Statement
+***
+
+**By ticking the box below, you confirm that:**
+
+* You have read and understood the purpose of this survey.
+
+* You voluntarily agree to participate.
+
+* You understand that your responses are anonymous and that you can withdraw at any time.
+
+☐ I consent to participate in this survey.
