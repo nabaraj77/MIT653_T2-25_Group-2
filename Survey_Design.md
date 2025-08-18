@@ -93,8 +93,8 @@ Handling the data ethically is crucial because of the sensitive topic. We will f
 * **Confidentiality:** The survey will be **anonymous**. We will not collect names, email addresses, or hospital names. This is essential to ensure participants feel safe providing honest answers about their organization's security.
 * **Data Privacy:** All collected data will be stored securely, and only the research team members will have access to it.
 
-### Informed Consent Statement
 ***
+### Informed Consent Statement
 
 **By ticking the box below, you confirm that:**
 
