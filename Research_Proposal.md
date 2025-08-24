@@ -10,7 +10,7 @@ Cybersecurity is a big problem in healthcare because hospitals must keep patient
 - To find out what the main problems that hospitals have when they try to use AI for cybersecurity.  
 - To evaluate whether AI tools reduce investigation workload for IT and security staff.  
 
-## 3. Literature Review (Outline)
+## 3. Literature Review 
 - **AI in Healthcare Cybersecurity** – overview of emerging applications (threat detection, anomaly detection, incident response).  
 - **Adoption Barriers** – cost, integration with legacy systems, lack of skilled professionals.  
 - **Perceived Effectiveness** – AI vs. traditional security tools in phishing and ransomware detection.  
