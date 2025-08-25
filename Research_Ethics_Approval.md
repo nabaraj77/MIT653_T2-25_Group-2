@@ -7,7 +7,7 @@
 - Abhishek Maharjan
 
 **Position:** Student  
-**Department/School:** Master of Information Technology 
+**Department/School:** Sydney Institute of Higher Education
 **Email Address:** s20240085@sihe.edu.au  
 **Project Supervisor:** Dr. Lien Nguyen  
 **Position:** Lecturer  
@@ -93,7 +93,7 @@ The digital data file will be permanently deleted from the cloud drive and local
 # 6. Declarations
 **Principal Investigator’s Declaration:**  
 I confirm that I have read and understood the ethical guidelines provided by Sydney Institute of Higher Education. I agree to conduct this research in accordance with these guidelines and the ethical principles outlined in this application.  
-Signature: __________________________  
+Signature: Janelle Taguiam, Nabaraj Dahal, Abhishek Maharjan
 Date: __________________________  
 
 **Supervisor’s Declaration:**  
