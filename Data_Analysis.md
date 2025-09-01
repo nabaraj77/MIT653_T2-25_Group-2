@@ -1,98 +1,64 @@
-## 1. Summary
+## 1.0 Introduction
 
-This report presents a comprehensive analysis of survey data from 100 Australian healthcare IT professionals on the adoption and effectiveness of AI/ML in cybersecurity. The findings reveal a critical disconnect: while **78% of professionals agree that AI saves time** and **64% find it more effective** against phishing, significant barriers prevent its widespread adoption. **High cost (38%)** and **integration with legacy systems (30%)** are the primary obstacles.
+This report presents a quantitative analysis of data collected from a survey of 100 IT and cybersecurity professionals in the Australian healthcare sector. The objective of our research was to answer the following question: **"How can AI and machine learning improve the detection and mitigation of cyber-attacks, such as phishing and ransomware, within hospital information systems?"**
 
-A detailed correlation analysis reveals a significant **"confidence gap"** between strategic leaders and frontline staff regarding AI's capabilities. Furthermore, the data shows a strong relationship between **integration challenges and a lack of efficiency gains**, implying that poorly implemented tools fail to deliver on their promise. Qualitative data underscores a critical demand for **"explainable AI"** to build trust in a clinical setting. The key recommendation is that for AI to be successful in healthcare, solutions must be affordable, easy to integrate, and transparent.
+To address this, our analysis is structured into two main parts. First, a descriptive analysis was conducted to summarize the overall trends and perspectives captured in the survey. Second, a comparative analysis was performed to explore the relationships between different variables and uncover deeper insights into the data.
 
----
-
-## 2. Introduction
-
-This analysis seeks to answer the research question: **"How can AI and machine learning improve the detection and mitigation of cyber-attacks within hospital information systems?"** By examining the perceptions of 100 professionals, this report provides a multi-faceted view of the technology's current role, its perceived value, and the challenges to its implementation.
 
 ---
 
-## 3. Methodology
+## 2.0 Methodology
 
-As defined in our course, **quantitative data analysis involves the use of numerical data to understand and explain phenomena.** This report uses this approach to provide a systematic and objective analysis of the survey results. **Descriptive statistics summarise and describe data, while inferential statistics help draw conclusions and make predictions.**
+As outlined in the course materials for this unit, our project followed a quantitative research strategy. We used a survey to collect primary data, which was then analyzed to identify patterns and draw conclusions.
 
-The analysis was conducted using **Microsoft Excel's PivotTables and PivotCharts**.
-* **Descriptive Analysis:** Frequencies, percentages, and visualizations were used to summarize the overall trends in the data.
-* **Correlation Analysis:** To explore the relationships between variables, a comparative analysis was conducted using **cross-tabulation**. This technique allows us to see how responses to one question change based on the answers to another, revealing deeper patterns in the data.
+* **Data Source:** The dataset consists of 100 responses from our survey, which was distributed online to a targeted sample of professionals.
+* **Analysis Tool:** All data processing and visualization were conducted using **Microsoft Excel**.
+* **Analytical Techniques:**
+    * **Descriptive Statistics:** We used **PivotTables** in Excel to calculate frequencies (counts) and percentages for each survey question. This allowed us to summarise the main features of the data.
+    * **Correlation & Comparative Analysis:** To investigate the relationships between different variables, we used **cross-tabulation** to compare the responses of different groups. This technique helps to infer relationships and draw more nuanced conclusions from the data.
 
 ---
 
-## 4. Descriptive Analysis of Overall Findings
+## 3.0 Descriptive Analysis of Overall Findings
 
-This section summarizes the key trends for each survey question, supported by a data table and a graphical representation.
+This section presents the overall results for each of the seven closed-ended questions in our survey.
 
-### 4.1. Current Role of Participants
+### 3.1 Respondent Demographics: Current Role
 
-| Role | Count | Percentage |
-| :--- | :--- | :--- |
-| Other IT Staff | 42 | 42% |
-| Cybersecurity Analyst or Engineer | 30 | 30% |
-| IT/Cybersecurity Manager | 18 | 18% |
-| Chief Information Security Officer (CISO) | 10 | 10% |
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e308e801-d9ad-490d-8e41-99c01e1a52ed" />
 
-![Chart of Respondent Roles](roles_chart.png)
+**Interpretation:** The sample provides a strong operational perspective, with 71% of respondents being frontline staff (Analysts and Other IT Staff). The remaining 29% consist of management and leadership roles, allowing for a useful comparison between strategic and operational viewpoints.
 
-**Interpretation:** The survey captured a strong mix of perspectives, with the majority being frontline staff ('Other IT Staff' at 42% and 'Cybersecurity Analyst or Engineer' at 30%). This provides a strong ground-level perspective on cybersecurity operations.
+### 3.2 Current Use of AI/ML Tools
 
-### 4.2. Current Use of AI/ML Tools
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2b1156fc-eb5d-4dd2-9a85-03226a4bc79d" />
 
-| Response | Count | Percentage |
-| :--- | :--- | :--- |
-| No | 38 | 38% |
-| We are currently implementing them | 27 | 27% |
-| I don't know | 20 | 20% |
-| Yes | 15 | 15% |
 
-![Chart of AI Adoption](adoption_chart.png)
+**Interpretation:** The data shows that AI adoption is low. Exactly half of the organisations (50%) do not use dedicated AI tools. Only 19% have fully implemented them, with a similar number (18%) in the process. This indicates that the industry is still in the very early stages of adoption.
 
-**Interpretation:** AI adoption is not yet widespread, with 38% of respondents confirming they do not use dedicated AI tools. However, the industry is in a state of transition, as 27% are currently implementing them. The high number of "I don't know" responses (20%) suggests a potential communication gap within IT departments about their security stack.
+### 3.3 Effectiveness in Detecting Phishing
 
-### 4.3. Effectiveness in Detecting Phishing
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/26b53c00-8a44-49b2-a13c-8330057065b6" />
 
-| Response | Count | Percentage |
-| :--- | :--- | :--- |
-| More Effective | 45 | 45% |
-| Much More Effective | 19 | 19% |
-| About the Same | 18 | 18% |
-| Less Effective | 11 | 11% |
-| Much Less Effective | 7 | 7% |
 
-![Chart of Phishing Effectiveness](phishing_chart.png)
 
-**Interpretation:** There is strong confidence in AI's ability to combat phishing. A significant majority (64%) rate AI as either 'More Effective' or 'Much More Effective' than traditional methods. This finding indicates that AI is perceived as a valuable upgrade for handling one of healthcare's most common attack vectors.
+**Interpretation:** A majority of professionals (57%) believe AI is more effective than traditional methods at detecting phishing. However, a significant portion (37%) feel it is only about the same or less effective, suggesting that opinions on its value are positive but not universally shared.
 
-### 4.4. Speed Against Ransomware
+### 3.4 Speed Against Ransomware
 
-| Response | Count | Percentage |
-| :--- | :--- | :--- |
-| Agree | 61 | 61% |
-| Neither Agree nor Disagree | 30 | 30% |
-| Disagree | 7 | 7% |
-| Strongly Disagree | 2 | 2% |
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c9c5ef71-7da8-47bd-b8a7-0e046a591631" />
 
-![Chart of Ransomware Mitigation](ransomware_chart.png)
 
-**Interpretation:** Professionals are cautiously optimistic about AI's speed against ransomware. While a majority (61%) 'Agree' that AI is fast enough, the large group of neutral responses (30%) points to uncertainty or a lack of real-world proof against such a high-stakes threat.
+**Interpretation:** There is a high degree of uncertainty regarding AI's automated defense capabilities. The largest group of respondents (45%) is neutral on the topic. While 42% agree that AI is fast enough, the overall sentiment is one of caution and a lack of conviction.
 
-### 4.5. Biggest Adoption Challenge
+### 3.5 Biggest Adoption Challenge
 
-| Challenge | Count | Percentage |
-| :--- | :--- | :--- |
-| The high cost | 38 | 38% |
-| Problems with existing systems | 30 | 30% |
-| Lack of skilled staff | 17 | 17% |
-| Worry about disrupting hospital work | 15 | 15% |
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6cccbabf-81cc-402e-a69a-cbba50be1517" />
 
-![Chart of Biggest Challenges](challenges_chart.png)
 
-**Interpretation:** The primary barriers to adoption are financial and technical. 'The high cost' (38%) and 'Problems with existing systems' (30%) together account for over two-thirds of the cited obstacles, painting a clear picture of the practical difficulties hospitals face.
+**Interpretation:** The primary barriers to AI adoption are clearly financial and technical. **'The high cost' (44%)** is the most significant obstacle, followed closely by **'Problems with existing systems' (31%)**. Together, these two factors account for 75% of the challenges cited.
 
-### 4.6. Most Urgent Security Alert
+### 3.6 Most Urgent Security Alert
 
 | Alert | Count | Percentage |
 | :--- | :--- | :--- |
@@ -101,11 +67,12 @@ This section summarizes the key trends for each survey question, supported by a 
 | Network intrusion alert | 19 | 19% |
 | Suspicious user login | 5 | 5% |
 
-![Chart of Urgent Alerts](alerts_chart.png)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e74c2168-274c-49ce-9de6-bb678eab165a" />
 
-**Interpretation:** Professionals prioritize alerts that signal an active, immediate threat. 'Phishing attempt detected' (44%) is ranked highest, likely due to its frequency as an initial access vector. 'Ransomware activity suspected' (32%) is a close second, reflecting its potential for catastrophic operational impact on patient care.
 
-### 4.7. Impact on Investigation Time
+**Interpretation:** Professionals prioritize alerts that signal a severe and immediate threat. **'Ransomware activity suspected' (36%)** is ranked as the most urgent, reflecting its potential to cause catastrophic operational disruption to patient care.
+
+### 3.7 Impact on Investigation Time
 
 | Response | Count | Percentage |
 | :--- | :--- | :--- |
@@ -114,64 +81,60 @@ This section summarizes the key trends for each survey question, supported by a 
 | No, it's about the same | 18 | 18% |
 | No, they create more work | 4 | 4% |
 
-![Chart of Time Saved](time_saved_chart.png)
+<img width="500" height="500 alt="image" src="https://github.com/user-attachments/assets/368ceb99-dc32-4317-ab20-e9cddf9bf1ab" />
 
-**Interpretation:** AI is viewed as a clear benefit for operational efficiency. A combined **78%** of respondents confirm that AI saves investigation time. However, the fact that the majority only save 'a little time' suggests that the benefits are incremental, possibly offset by time spent validating AI-generated alerts.
+
+**Interpretation:** AI tools are widely seen as an efficiency benefit. A combined **71%** of respondents report that AI saves their team time. However, the fact that the majority only save 'a little time' suggests that these efficiency gains may be modest, possibly offset by the need to manage and validate AI-generated alerts.
 
 ---
 
-## 5. Correlation Analysis: Comparative & Relational Insights
+## 4.0 Comparative Analysis
 
-This section explores the relationships between different variables to uncover deeper insights.
+Our analysis revealed a notable difference in opinion between strategic leadership roles and frontline operational staff regarding AI's ability to stop ransomware.
 
-### 5.1. The "Confidence Gap": Role vs. Belief in Ransomware Defense
+### 4.1 The "Confidence Gap": Role vs. Belief in Ransomware Defense
 A cross-tabulation of professional roles against their confidence in AI's speed reveals a significant difference in perspective between strategic leaders and frontline staff.
 
-![Comparative Chart of Role vs. Confidence](role_vs_confidence_chart.png)
+<img width="1200" height="800" alt="Code_Generated_Image (1)" src="https://github.com/user-attachments/assets/ad355ada-f809-4fd0-9b61-ed469beb0f95" />
 
-**Interpretation:** The chart clearly shows a **"confidence gap."** Senior roles like CISOs and Managers, who are often responsible for the strategic decision to purchase the technology, show much higher levels of agreement. In contrast, frontline staff (Analysts and Other IT Staff), who deal with the technology's daily operations, show significantly more uncertainty and disagreement. This suggests that the perceived value of AI may differ based on one's position in the organizational hierarchy.
 
-### 5.2. The Efficiency Problem: Challenges vs. Time Saved
-This analysis explores whether the challenges an organization faces are correlated with the efficiency gains they experience from AI.
+**Finding:** The data shows what can be described as a "confidence gap." Senior roles (CISOs and Managers), who are often responsible for the strategic decision to purchase technology, showed much higher levels of agreement that AI is fast enough. In contrast, frontline staff (Analysts and Other IT Staff), who manage the technology's daily operations, expressed significantly more uncertainty or disagreement. This suggests a potential disconnect between the strategic perception and the operational reality of AI's performance.
 
-![Comparative Chart of Challenges vs. Time Saved](challenge_vs_time_saved_chart.png)
+### 4.2 The Efficiency Problem: Challenges vs. Time Saved
+We also investigated whether the challenges faced by an organisation were related to the efficiency gains they experienced from AI.
 
-**Interpretation:** There is a strong relationship between integration challenges and a lack of efficiency. Respondents who cited **'Problems with existing systems'** as their biggest barrier were far more likely to report that AI saves no time or even creates more work. This is a critical insight: it suggests that if an AI tool is not integrated properly, it fails to deliver on its core promise of efficiency and can become a burden rather than a benefit.
+<img width="1200" height="800" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/8e28f44d-b668-442d-9c04-a78ae9fd8f0c" />
 
----
 
-## 6. Thematic Analysis of Qualitative Data
-
-The open-ended responses provide crucial context for the quantitative findings.
-
-* **Theme 1: The Need for Explainability and Transparency**
-    A fundamental lack of trust in "black box" AI was the most sophisticated concern. Professionals need to understand *why* a tool makes a decision before they can act on it in a clinical setting.
-    > *"AI still feels like a black box. We need explainable AI to trust its decisions fully."*
-
-* **Theme 2: Cost and Resource Barriers**
-    The high cost of AI tools was a dominant theme, creating a security divide between large, well-funded hospitals and smaller, regional ones.
-    > *"The upfront cost of AI systems is high, making it hard for smaller hospitals."*
-
-* **Theme 3: The High Stakes of False Positives**
-    In a hospital, a false positive is not a minor inconvenience; it can directly impact patient care by disrupting critical clinical workflows.
-    > *"Automation is useful, but in healthcare, false quarantines risk disrupting patient care."*
+**Finding:** There appears to be a strong relationship between integration issues and a lack of efficiency. Respondents who cited 'Problems with existing systems' as their biggest barrier were far more likely to report that AI saves no time or even creates more work. This finding is critical, as it suggests that without proper integration, the investment in an AI tool may fail to deliver on its promise of efficiency.
 
 ---
 
-## 7. Discussion and Implications
+## 5.0 Thematic Analysis of Qualitative Data
 
-The analysis tells a clear story of **cautious optimism versus practical reality**. While professionals believe in AI's potential (high effectiveness against phishing, saves time), its implementation is being throttled by the real-world constraints of **budgets and outdated infrastructure**.
+The open-ended responses provided important context to the quantitative data. Three key themes were identified:
 
-The "confidence gap" between leaders and staff suggests that the strategic benefits of AI may not always translate into smooth operational realities. The strongest finding is the correlation between **poor integration and a lack of efficiency**, which implies that simply purchasing an AI tool is not a solution. Without proper integration, the investment may be wasted.
-
-Finally, the qualitative data's emphasis on **"explainable AI"** highlights a critical trust deficit. In an environment where a single error can impact patient safety, a "black box" solution is not acceptable. This has direct implications for AI vendors marketing to the healthcare industry: transparency is as important as technical capability.
+* **Theme 1: The Need for Explainability and Transparency:** A lack of trust in "black box" AI was a common concern. Professionals need to understand *why* a tool flags a threat before they can take action, especially in a clinical setting. As one respondent stated, *"AI still feels like a black box. We need explainable AI to trust its decisions fully."*
+* **Theme 2: Cost and Resource Barriers:** The high cost of AI tools was a dominant theme, which respondents noted creates a security divide between large, well-funded hospitals and smaller ones. One professional said, *"The upfront cost of AI systems is high, making it hard for smaller hospitals."*
+* **Theme 3: The High Stakes of False Positives:** In a hospital, a false alarm is not just an inconvenience; it can directly impact patient care by disrupting critical workflows. This was summarized well by one participant: *"Automation is useful, but in healthcare, false quarantines risk disrupting patient care."*
 
 ---
 
-## 8. Conclusion and Recommendations
+## 6.0 Discussion and Implications
 
-In conclusion, AI/ML can significantly improve hospital cybersecurity, but its potential is currently capped by financial barriers, technical integration challenges, and a need for greater trust.
+The combined analysis paints a clear picture of cautious optimism versus practical reality. While IT professionals in healthcare recognise the potential of AI to be more effective than traditional tools, its adoption is being slowed by the significant real-world constraints of high costs and complex technical integration.
 
-Based on this analysis, we offer two recommendations:
-1.  **For Hospitals:** Prioritize infrastructure modernization alongside the procurement of new AI security tools. A holistic approach that considers integration from the outset is necessary to maximize the return on investment and achieve real efficiency gains.
-2.  **For AI Vendors:** Focus on developing "explainable AI" (XAI) features that provide clear reasoning for security alerts. This is critical for building trust and ensuring safe adoption in the risk-averse healthcare sector.
+The "confidence gap" identified between leadership and frontline staff is a key finding, suggesting that strategic expectations of AI may not always align with operational experiences. Furthermore, the strong relationship between integration problems and a lack of efficiency gains implies that simply purchasing an AI tool is not a sufficient solution; without proper implementation, it may not provide the expected benefits.
+
+Finally, the qualitative feedback underscores a critical requirement for the healthcare sector: trust. The demand for "explainable AI" shows that in a high-stakes environment where errors can affect patient safety, transparency is just as important as technical capability.
+
+---
+
+## 7.0 Conclusion and Recommendations
+
+In conclusion, our research indicates that while AI/ML can improve hospital cybersecurity, its full potential is currently limited by financial barriers, technical challenges, and a need for greater trust.
+
+Based on our analysis, we offer two recommendations:
+
+1.  **For Hospitals:** We recommend that organisations prioritise infrastructure modernization alongside the procurement of new AI security tools. A holistic approach that plans for integration from the start is necessary to maximize the return on investment and achieve real efficiency gains.
+2.  **For AI Vendors:** We recommend a focus on developing "explainable AI" (XAI) features that provide clear and simple reasoning for security alerts. This is critical for building trust and ensuring the safe and effective adoption of these tools in the risk-averse healthcare sector.
