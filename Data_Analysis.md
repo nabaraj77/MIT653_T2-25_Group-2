@@ -60,13 +60,6 @@ This section presents the overall results for each of the seven closed-ended que
 
 ### 3.6 Most Urgent Security Alert
 
-| Alert | Count | Percentage |
-| :--- | :--- | :--- |
-| Phishing attempt detected | 44 | 44% |
-| Ransomware activity suspected | 32 | 32% |
-| Network intrusion alert | 19 | 19% |
-| Suspicious user login | 5 | 5% |
-
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e74c2168-274c-49ce-9de6-bb678eab165a" />
 
 
@@ -74,14 +67,9 @@ This section presents the overall results for each of the seven closed-ended que
 
 ### 3.7 Impact on Investigation Time
 
-| Response | Count | Percentage |
-| :--- | :--- | :--- |
-| Yes, a little time | 55 | 55% |
-| Yes, a lot of time | 23 | 23% |
-| No, it's about the same | 18 | 18% |
-| No, they create more work | 4 | 4% |
 
-<img width="500" height="500 alt="image" src="https://github.com/user-attachments/assets/368ceb99-dc32-4317-ab20-e9cddf9bf1ab" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c81bf074-a816-40a4-97e7-54a4e1dcf104" />
+
 
 
 **Interpretation:** AI tools are widely seen as an efficiency benefit. A combined **71%** of respondents report that AI saves their team time. However, the fact that the majority only save 'a little time' suggests that these efficiency gains may be modest, possibly offset by the need to manage and validate AI-generated alerts.
